@@ -13,7 +13,7 @@ VoteWise is a smart election assistant that helps users navigate the entire voti
 
 ![VoteWise Dashboard](./assets/dashboard.png)
 
-> 💡 Make sure you save your screenshot in your repo (e.g., `assets/dashboard.png`)
+
 
 ---
 
