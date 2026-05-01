@@ -12,7 +12,7 @@
 
 **Empowering every citizen to vote with confidence.**
 
-[Live Demo](#) · [Report Bug](https://github.com/rohitbiswas1/election-guidance-assistant-/issues) · [Request Feature](https://github.com/rohitbiswas1/election-guidance-assistant-/issues)
+[Live Demo](#) 
 
 </div>
 
